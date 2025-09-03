@@ -15,12 +15,3 @@ Welcome to my SQL learning repo! This is where I’m planting all the seeds from
 
 ---
 
-## 🗂️ Repo Structure
-
-```bash
-SQL-Study-Garden/
-├── lectures/          # Markdown notes from each section
-├── queries/           # Practice SQL files (.sql)
-├── mini-projects/     # Small datasets + analysis
-├── resources/         # Cheat sheets, links, and helpful guides
-└── README.md          # You're here!
